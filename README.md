@@ -48,7 +48,7 @@
 <body>
   <header>
     <h1>
-      <img src="https://github.com/ellenoda/files/blob/8033bec76db5c2465882a7ae34ed28334247e973/puzzle-unscreen.gif?raw=true" alt="Puzzle icon" />
+      <img src="[https://github.com/ellenoda/files/blob/8033bec76db5c2465882a7ae34ed28334247e973/puzzle-unscreen.gif?raw=true](https://github.com/ellenoda/files/blob/e4bd429b5fb2c10d9f790baa98a87be77f286067/click.gif)" alt="Puzzle icon" />
       <a href="https://ellenoda.github.io" style="color: #d75c8c; text-decoration: none;">ellenoda.github.io</a>
     </h1>
   </header>
