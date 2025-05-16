@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ellenoda/files/blob/f2d362988b265834ea403d9b5be36b1f5f5dc037/figma2-removebg.png?raw=true" width="700px"/>
+  <img src="https://github.com/ellenoda/files/blob/f2d362988b265834ea403d9b5be36b1f5f5dc037/figma2-removebg.png?raw=true" width="900px"/>
 </p>
 
 I am a data analyst with a background in administration, passionate about solving problems through data and storytelling.
