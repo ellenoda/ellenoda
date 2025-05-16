@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ellenoda/files/blob/f2d362988b265834ea403d9b5be36b1f5f5dc037/figma2-removebg.png?raw=true" width="300px"/>
+  <img src="https://github.com/ellenoda/files/blob/f2d362988b265834ea403d9b5be36b1f5f5dc037/figma2-removebg.png?raw=true" width="700px"/>
 </p>
 
 I am a data analyst with a background in administration, passionate about solving problems through data and storytelling.
@@ -9,4 +9,4 @@ I am a data analyst with a background in administration, passionate about solvin
 - 🚀 Recent Projects:
 
 ### [📂 Access my portfolio here](https://ellenoda.github.io)
-<img src="https://github.com/ellenoda/files/blob/40bf7fde0030539908452fc2c1c62ee8ce941c2a/click-unscreen.gif?raw=true" width="80px"/>
+<img src="https://github.com/ellenoda/files/blob/40bf7fde0030539908452fc2c1c62ee8ce941c2a/click-unscreen.gif?raw=true" width="50px"/>
