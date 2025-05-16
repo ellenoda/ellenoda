@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩‍💻 Ellen Noda
 
-<!--
-**ellenoda/ellenoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst with a background in administration, passionate about solving problems through data and storytelling.
 
-Here are some ideas to get you started:
+- 💼 Skills: SQL · Power BI · Looker Studio · Google Colab · Python
+- 🚀 Recent Projects:
+  - Customer Segmentation using RFM model
+  - Spotify Stream Analysis using Regression
+  - Candidate Journey Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Portfolio Website](https://ellenoda.github.io/)
+📧 ellenoda@gmail.com
+
