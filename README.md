@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Ellen Noda | Profile</title>
-  <link rel="icon" href="https://github.com/ellenoda/files/blob/e4bd429b5fb2c10d9f790baa98a87be77f286067/click.gif?raw=true" type="image/gif" />
+  <link rel="icon" href="https://github.com/ellenoda/files/blob/e4bd429b5fb2c10d9f790baa98a87be77f286067/click.gif?raw=true](https://github.com/ellenoda/files/blob/40bf7fde0030539908452fc2c1c62ee8ce941c2a/click-unscreen.gif" type="image/gif" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet" />
   <style>
     body {
@@ -48,7 +48,7 @@
 <body>
   <header>
     <h1>
-      <img src="https://github.com/ellenoda/files/blob/e4bd429b5fb2c10d9f790baa98a87be77f286067/click.gif?raw=true" alt="Click icon" />
+      <img src="https://github.com/ellenoda/files/blob/e4bd429b5fb2c10d9f790baa98a87be77f286067/click.gif?raw=true](https://github.com/ellenoda/files/blob/40bf7fde0030539908452fc2c1c62ee8ce941c2a/click-unscreen.gif" alt="Click icon" />
       <a href="https://ellenoda.github.io" style="color: #d75c8c; text-decoration: none;">ellenoda.github.io</a>
     </h1>
   </header>
